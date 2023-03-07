@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ubaida Abdulai</h1>
 <h3 align="center">A frontend developer from Ghana</h3>
+
 <img align= "right" alt ="code" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidana&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidana" /> </p>
@@ -11,6 +12,8 @@
 - 📫 How to reach me **ubnapari@gmail.com**
 
 - ⚡ Fun fact **I love reading**
+
+- 🎈 I am currently **An ALX Software Engineering Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
