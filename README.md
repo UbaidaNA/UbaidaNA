@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love reading**
 
-- 🎈 I am currently **An ALX Software Engineering Student**
+- 🎈 I am currently **an ALX Software Engineering Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
