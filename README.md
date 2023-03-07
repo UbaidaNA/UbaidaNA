@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/126763559/223431253-6296497d-faad-4080-a228-b1c0c98c11c6.png)
 
-<h1 align="center">Hi 👋, I'm Ubaida Abdulai</h1>
+<h1 align="center">Hi 👋, I'm Ubaida</h1>
 <h3 align="center">A frontend developer from Ghana</h3>
 
 <img align= "right" alt ="code" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
