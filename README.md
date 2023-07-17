@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaida</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <img align= "right" alt ="code" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
 
