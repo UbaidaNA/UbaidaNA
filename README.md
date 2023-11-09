@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love reading**
 
-- 🎈 I am currently **an ALX Software Engineering Student**
+- 🎈 I am currently **learning on Codecademy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
