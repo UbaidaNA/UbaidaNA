@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI/ML in medicine and medical research
 - 🌱 I’m currently on track to being a data scientist
-- 💞️ I’m looking to collaborate on AI/ML disease diagnostics project
+- 💞️ I’m looking to collaborate on AI/ML disease diagnostics projects
 - 📫 How to reach me unabdulai@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love reading
