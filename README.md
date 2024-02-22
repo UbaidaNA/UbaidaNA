@@ -1,7 +1,7 @@
 <h1 alighn="center">👋 Hi, I’m Ubaida</h1>
 
 - 👀 I’m interested in AI/ML in medicine and medical research
-- 🌱 I’m currently learning Python for Machine Learning
+- 🌱 I’m currently on track to being a data scientist
 - 💞️ I’m looking to collaborate on AI/ML disease diagnostics project
 - 📫 How to reach me unabdulai@gmail.com
 - 😄 Pronouns: She/Her/Hers
