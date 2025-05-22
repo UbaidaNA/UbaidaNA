@@ -1,6 +1,6 @@
 <h1 alighn="center">👋 Hi, I’m Ubaida</h1>
 
-- 👀 I’m interested in Data Analysis, Data Science and ML/DL
+- 👀 I’m interested in Data Analysis, Data Science and AI/ML
 - 🌱 I’m currently on track to being a Machine Learning Scientist
 - 💞️ I’m looking to collaborate on AI/ML projects.
 - 📫 How to reach me unabdulai@gmail.com
