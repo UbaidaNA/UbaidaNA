@@ -1,7 +1,7 @@
 <h1 alighn="center">👋 Hi, I’m Ubaida</h1>
 
 - 👀 I’m interested in Data Analysis, Data Science and AI/ML
-- 🌱 I’m currently on track to being a Machine Learning Scientist
+- 🌱 I’m currently an AI/ML Engineer
 - 💞️ I’m looking to collaborate on AI/ML projects.
 - 📫 How to reach me unabdulai@gmail.com
 - 😄 Pronouns: She/Her/Hers
